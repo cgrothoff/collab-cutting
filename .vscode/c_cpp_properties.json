@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ur10/ur10_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/ur10/ur10_ws/src/Universal_Robots_ROS_Driver/Universal_Robots_ROS_controllers_cartesian/cartesian_interface/include/**",
+        "/home/ur10/ur10_ws/src/Universal_Robots_ROS_Driver/Universal_Robots_ROS_controllers_cartesian/cartesian_trajectory_controller/include/**",
+        "/home/ur10/ur10_ws/src/Universal_Robots_ROS_Driver/Universal_Robots_ROS_controllers_cartesian/cartesian_trajectory_interpolation/include/**",
+        "/home/ur10/ur10_ws/src/Universal_Robots_ROS_Driver/controller_stopper/include/**",
+        "/home/ur10/ur10_ws/src/robotiq_2finger_grippers/robotiq_2f_gripper_control/include/**",
+        "/home/ur10/ur10_ws/src/rosserial/rosserial_server/include/**",
+        "/home/ur10/ur10_ws/src/rosserial/rosserial_test/include/**",
+        "/home/ur10/ur10_ws/src/Universal_Robots_ROS_Driver/Universal_Robots_ROS_controllers_cartesian/twist_controller/include/**",
+        "/home/ur10/ur10_ws/src/Universal_Robots_ROS_Driver/ur_calibration/include/**",
+        "/home/ur10/ur10_ws/src/fmauch_universal_robot/ur_kinematics/include/**",
+        "/home/ur10/ur10_ws/src/Universal_Robots_ROS_Driver/ur_robot_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
